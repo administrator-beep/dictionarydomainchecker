@@ -1,0 +1,9 @@
+# Exclude local results and checkpoints
+rdap_available.txt
+checkpoint.txt
+ignore.txt
+dropped.txt
+
+# Exclude Python cache
+__pycache__/
+*.pyc
